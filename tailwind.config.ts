@@ -26,8 +26,10 @@ export default {
         foreground: "hsl(var(--foreground))",
         luxury: {
           gold: "#D4AF37",
-          purple: "#800080",
-          dark: "#1A1A1A",
+          darkGold: "#B4943E",
+          black: "#1A1A1A",
+          charcoal: "#2C2C2C",
+          cream: "#F5E6CA",
         },
         primary: {
           DEFAULT: "hsl(var(--primary))",

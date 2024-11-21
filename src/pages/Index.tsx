@@ -46,7 +46,7 @@ const links = [
 
 const Index = () => {
   return (
-    <div className="min-h-screen bg-gradient-to-br from-luxury-purple to-luxury-dark text-white p-4">
+    <div className="min-h-screen bg-gradient-to-br from-luxury-black to-luxury-charcoal text-luxury-cream p-4">
       <div className="max-w-3xl mx-auto">
         <header className="text-center mb-8 animate-fade-in">
           <h1 className="text-4xl md:text-5xl font-bold mb-4 text-luxury-gold">
